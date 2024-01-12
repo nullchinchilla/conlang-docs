@@ -67,3 +67,5 @@ The Unionists currently promote a pronunciation known as the "New National" pron
 
 * **z** and **j** after a vowel are generally pronounced **r**, and otherwise merge with **c** and **x**
 * **e ē o ō** are pronounced like **i e u o**
+
+New National _spelling_ was once promoted during the Panthalassic War, but has largely been abandoned in favor of interoperability with the rest of the world.
