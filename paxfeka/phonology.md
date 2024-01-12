@@ -35,15 +35,17 @@ For instance,
 
 The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin ancestor. The most notable changes are the merging of the alveolo-palatals and retroflex into the palatal-alveolar, as well as the straightforward restructuring from an aspiration distinction to a voicing distinction.
 
-|               | Bilabial | Alveolar | Postalveolar | Palatal | Velar  |
-| ------------- | -------- | -------- | ------------ | ------- | ------ |
-| **Nasal**     | \<m>     | \<n>     |              |         |        |
-| **Stop**      | \<p b>   | \<t d>   |              |         | \<k g> |
-| **Affricate** |          | \<c z>   | \<q j>       |         |        |
-| **Fricative** |          | \<s>     |              |         |        |
-| **Liquid**    | \<w>     | \<l>     |              | \<y>    |        |
+|               | Bilabial  | Alveolar | Postalveolar | Palatal | Velar  |
+| ------------- | --------- | -------- | ------------ | ------- | ------ |
+| **Nasal**     | \<m>      | \<n>     |              |         |        |
+| **Stop**      | \<p b>    | \<t d>   |              |         | \<k g> |
+| **Affricate** |           | \<c z>   | \<q j>       |         |        |
+| **Fricative** | \<f> \<v> | \<s>     |              |         | \<h>   |
+| **Liquid**    | \<w>      | \<l>     |              | \<y>    |        |
 
 \<n> is pronounced as velar at the end of a word.
+
+\<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **knvata** "voltage converter" or **ivatu** "slang term for radioactive waste"
 
 ## Phonotactics
 
