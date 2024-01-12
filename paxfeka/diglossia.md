@@ -13,6 +13,6 @@ Note that Dàxondō isn't even a Common Tepnic language, so it cannot be fully e
 
 In comparison, the sentence in Classical Paxfeka (pronounced as spelled) would be:\
 _Dōxond jēyojanl yuleyni me yolta, soy jinten soyodad me qìkayjwa._\
-[dɔ́ːʃond dʒɛ́ːjodʒãɫ jǔlejni me jǒɫta, soj dʒǐnteŋ sǒjodat me tʃîkajdʒwa]
+[dɔ̌ːʃond dʒɛ̌ːjodʒãɫ julejni me jǒɫta, soj dʒǐnteŋ sojodat me tʃîkajdʒwa]
 
 The only really noticeable difference in orthography is the lack of accent marks on the Dàxondō text. This is common to most modern vernaculars, which have entirely lost the pitch-accent system of Classical Paxfeka.
