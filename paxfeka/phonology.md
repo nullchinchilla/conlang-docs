@@ -60,3 +60,10 @@ However whenever these clusters violate sonority, it's pronounced with an epenth
 There is a simple pitch-accent system with two accents: neutral/rising, and sharply falling. The accented syllable is almost always the first syllable.
 
 The neutral accent is unmarked, while the falling accent is marked with a grave accent, or a circumflex accent replacing the macron in the case of a long vowel.
+
+## "New National" / Unionist pronunciation
+
+The Unionists currently promote a pronunciation known as the "New National" pronunciation, which attempts to be more based on a compromise between modern pronunciations than historical pronunciation. It has not caught on globally, both due to its ideological connotations, and because it obliterates many distinctions made in smaller dialects. Some notable differences are:
+
+* **z** and **j** after a vowel are generally pronounced **r**, and otherwise merge with **c** and **x**
+* **e ē o ō** are pronounced like **i e u o**
