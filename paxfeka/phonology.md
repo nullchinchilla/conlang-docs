@@ -37,4 +37,8 @@ The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin anc
 
 ## Phonotactics
 
+In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
+
+The last syllable of a word may _phonologically_ end in two consonants: **malq** "car", but _phonetically_ the cluster is broken up an epenthetic schwa: [malətʃ]. This schwa disappears when unnecessary: **malqad** [maltʃat] "car's"
+
 ## Prosody
