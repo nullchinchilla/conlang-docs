@@ -33,6 +33,8 @@ For instance,
 
 ## Consonants
 
+The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin ancestor. The most notable changes are the merging of the alveolo-palatals and retroflex into the palatal-alveolar, as well as the straightforward restructuring from an aspiration distinction to a voicing distinction.
+
 ## Phonotactics
 
 ## Prosody

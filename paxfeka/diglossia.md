@@ -6,7 +6,7 @@ For instance, here is a sentence in the vernacular of Dàxondō (_Nahunno_), one
 
 **Classical spelling**: _Dōxond jēyofonzal yolan meyoltadyen', jayten soyol meqikayjwa_.\
 **Phonetic spelling**: _Nohun ceuforrō yulō myōtanyen, qētē suyō mickerra._\
-**Phonetic IPA**: [nɔhun tseu̯fɔrːɔː julɔː mʲɔːtanʲɛn tɕɛːtɛː sujɔː mitskerːa]\
+**Phonetic IPA**: [nɔhun tseu̯fɔrɔː julɔː mʲɔːtanʲɛn tʃɛːtɛː sujɔː mitskera]\
 **Meaning**: "There's no uranium at the power stations on shore, so today I can't go anywhere".
 
 Note that Dàxondō isn't even a Common Tepnic language, so it cannot be fully explained by sound changes from Classical Paxfeka, but even then Classical spelling is used despite a few irregularities (such as the unpredictability of whether **j** represents spoken **q** or **c**).
