@@ -2,7 +2,7 @@
 
 Modern Tepnic languages exist in a situation of diglossia with Classical Paxfeka for the vast majority of speakers. Modern forms are heavily influenced by Classical Paxfeka to the extent that they tend to be spelled etymologically rather than phonetically, as if they are Classical Paxfeka but with some novel syntax and vocabulary, and thus are mostly mutually intelligible in writing if not in speech.
 
-For instance, here is a sentence in the vernacular of Dàxondō, one of the most important polities on the mainland. A broad phonetic spelling used by some clans, especially those aligned to the Reunionist movement, is also shown:
+For instance, here is a sentence in the vernacular of Dàxondō (_Nahunno_), one of the most important polities on the mainland. A broad phonetic spelling used by some clans, especially those aligned to the Reunionist movement, is also shown:
 
 **Classical spelling**: _Dōxond jēyofonzal yolan meyoltadyen', jayten soyol meqikayjwa_.\
 **Phonetic spelling**: _Nohun ceuforrō yulō myōtanyen, qētē suyō mickerra._\
