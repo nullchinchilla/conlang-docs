@@ -26,19 +26,29 @@ Phonetically, though, there is a series of _nasalized vowels_ \[ã ĩ ũ ẽ 
 
 For instance,
 
-- _Tẽpņfa_ /têːpnfa/ \[ˈtɛ̂ːpɯ̃fa] "Classical Paxfeka"
-- _lanhē_ /lǎnheː/ [ˈlǎ̃hɛː] "pelagic zone"
-- _Tẽpņdō_ /têːpndoː/ [ˈtɛ̂ːpn̩dɔː] "the city-island of Paxfeka, nominal capital of the planet"
-- _lanqo_ /lǎntʃo/ [ˈlǎntʃo] "basketball".
+* _Tẽpņfa_ /têːpnfa/ \[ˈtɛ̂ːpɯ̃fa] "Classical Paxfeka"
+* _lanhē_ /lǎnheː/ \[ˈlǎ̃hɛː] "pelagic zone"
+* _Tẽpņdō_ /têːpndoː/ \[ˈtɛ̂ːpn̩dɔː] "the city-island of Paxfeka, nominal capital of the planet"
+* _lanqo_ /lǎntʃo/ \[ˈlǎntʃo] "basketball".
 
 ## Consonants
 
 The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin ancestor. The most notable changes are the merging of the alveolo-palatals and retroflex into the palatal-alveolar, as well as the straightforward restructuring from an aspiration distinction to a voicing distinction.
 
+|               | Bilabial | Alveolar | Postalveolar | Palatal | Velar  |
+| ------------- | -------- | -------- | ------------ | ------- | ------ |
+| **Nasal**     | \<m>     | \<n>     |              |         |        |
+| **Stop**      | \<p b>   | \<t d>   |              |         | \<k g> |
+| **Affricate** |          | \<c z>   |              |         |        |
+| **Fricative** |          | \<s>     |              |         |        |
+| **Liquid**    | \<w>     | \<l>     |              | \<y>    |        |
+
+\<n> is pronounced as velar at the end of a word.
+
 ## Phonotactics
 
 In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
 
-The last syllable of a word may _phonologically_ end in two consonants: **malq** "car", but _phonetically_ the cluster is broken up an epenthetic schwa: [malətʃ]. This schwa disappears when unnecessary: **malqad** [maltʃat] "car's"
+The last syllable of a word may _phonologically_ end in two consonants: **malq** "car", but _phonetically_ the cluster is broken up an epenthetic schwa: \[malətʃ]. This schwa disappears when unnecessary: **malqad** \[maltʃat] "car's"
 
 ## Prosody
