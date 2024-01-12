@@ -39,7 +39,7 @@ The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin anc
 | ------------- | -------- | -------- | ------------ | ------- | ------ |
 | **Nasal**     | \<m>     | \<n>     |              |         |        |
 | **Stop**      | \<p b>   | \<t d>   |              |         | \<k g> |
-| **Affricate** |          | \<c z>   |              |         |        |
+| **Affricate** |          | \<c z>   | \<q j>       |         |        |
 | **Fricative** |          | \<s>     |              |         |        |
 | **Liquid**    | \<w>     | \<l>     |              | \<y>    |        |
 
@@ -49,6 +49,12 @@ The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin anc
 
 In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
 
-The last syllable of a word may _phonologically_ end in two consonants: **malq** "car", but _phonetically_ the cluster is broken up an epenthetic schwa: \[malətʃ]. This schwa disappears when unnecessary: **malqad** \[maltʃat] "car's"
+The last syllable of a word may _morphophonologically_ end in two consonants, the first one of which is not \<n>, and is spelled that way: **malq** "car", **jipq** "off-road vehicle".
+
+However whenever these clusters violate sonority, it's pronounced with an epenthetic **a**. So **jipq** is pronounced as if it were spelled "jipaq".
 
 ## Prosody
+
+There is a simple pitch-accent system with two accents: neutral/rising, and sharply falling. The accented syllable is almost always the first syllable.
+
+The neutral accent is unmarked, while the falling accent is marked with a grave accent.
