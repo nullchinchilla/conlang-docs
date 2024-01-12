@@ -57,4 +57,4 @@ However whenever these clusters violate sonority, it's pronounced with an epenth
 
 There is a simple pitch-accent system with two accents: neutral/rising, and sharply falling. The accented syllable is almost always the first syllable.
 
-The neutral accent is unmarked, while the falling accent is marked with a grave accent.
+The neutral accent is unmarked, while the falling accent is marked with a grave accent, or a circumflex accent replacing the macron in the case of a long vowel.
