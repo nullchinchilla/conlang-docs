@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Phonology](README.md)
-* [Diglossia](diglossia.md)
+- [Overview](README.md)
+- [Phonology](phonology.md)
+- [Diglossia](diglossia.md)
