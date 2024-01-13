@@ -66,10 +66,11 @@ The neutral accent is unmarked, while the falling accent is marked with a grave 
 A newer pronunciation attempts to be more based on a compromise between modern pronunciations than historical pronunciation. It has not caught on globally, both due to its ideological connotations (it tends to be more popular among Reunionists), and because it obliterates many distinctions made in smaller dialects. Some notable differences are:
 
 - **z** and **j** after a vowel are generally pronounced **r**, and otherwise merge with **c** and **x**
-- **e ē o ō** are pronounced like **i e u o**, other than before **n** or **m**.
+- **x** pronounced as **h**
+- **e ē o ō** are pronounced like **i e u o**, other than in syllables with final nasals.
 - **mb** and **nd** clusters tend to be pronounced like **mm** and **nn**.
 
-New _spelling_ was once promoted by the General Council for Reunion during the Panthalassic War, but has largely been abandoned in favor of interoperability with the rest of the world.
+New-pronunciation _spelling_ was once promoted by the General Council for Reunion during the Panthalassic War, but has largely been abandoned in favor of interoperability with the rest of the world.
 
-**Qembud xarid lodundyanan, tunniya!** _Workers of the whole world, unite!_\
-**Qemmud xajed lōdundyanan, tunyiya!** (trad. spelling)
+**Qemmud harid lodundyanan, tunniya!** _Workers of the whole world, unite!_\
+**Qembud xajed lōdundyanan, tunniya!** (trad. spelling)
