@@ -40,11 +40,12 @@ Here are the [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resource
  38. Directly opposite stands a wonderful palace. / bucod gunden ja'ndemen zee'jta.
  39. Henry's dog is lost. / Henlid go zojogota.
  40. My cat is black. / wad moo hesta.
- 41. The little girl's doll is broken. / xoo wiheed wawa 
- 42. I usually sleep soundly. / 
- 43. The children ran after Jack.
+ 41. The little girl's doll is broken. / xoo wiheed wawa feta.
+ 42. I usually sleep soundly. / yiban hanxan xe'joowa.
+ 43. The children ran after Jack. / heezan ganj jeek poobtanl.
  44. I can play after school.
 
+```
 
 Locative: men\
 Allative: na\
