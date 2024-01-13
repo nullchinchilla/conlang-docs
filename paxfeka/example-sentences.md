@@ -39,11 +39,12 @@ Here are the [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resource
  37. You must write more neatly. / gunjnd xezya!
  38. Directly opposite stands a wonderful palace. / bucod gunden ja'ndemen zee'jta.
  39. Henry's dog is lost. / Henlid go zojogota.
- 40. My cat is black. / wad moo hes xta.
- 41. The little girl's doll is broken.
-I usually sleep soundly.
-The children ran after Jack.
-I can play after school.
+ 40. My cat is black. / wad moo hesta.
+ 41. The little girl's doll is broken. / xoo wiheed wawa 
+ 42. I usually sleep soundly. / 
+ 43. The children ran after Jack.
+ 44. I can play after school.
+
 
 Locative: men\
 Allative: na\
@@ -71,3 +72,4 @@ mood - aspect - person - tense
 你：2nd
 他：3rd
 +们：plural（e.g. 我们）
+```
