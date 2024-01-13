@@ -1,14 +1,14 @@
 Here are the [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html) in Paxfeka:
 
- 1. The sun shines. / têyon jôyōta.
+ 1. The sun shines. / têyon jôyōta. / tee'yon joo'yoota
  2. The sun is shining. / têyon jôyōjta.
  3. The sun shone. / têyon jôyōtal.
- 4. The sun will shine / teeyang jooyootayoo
- 5. The sun has been shining / teeyang jooyoojtal
- 6. The sun is shining again / teeyang zeyic jooyoota
- 7. The sun is shining tomorrow / teeyang mingten jooyoojtayoo
- 8. The sun is shining brightly / teeyang mingyangd jooyoojta
- 9. The bright sun shines / mingyangd teeyang jooyoota
+ 4. The sun will shine / tee'yon joo'yootayoo.
+ 5. The sun has been shining / tee'yon joo'yoojtal.
+ 6. The sun is shining again / tee'yon ze'yc joo'yoota.
+ 7. The sun is shining tomorrow / tee'yon yanten joo'yoojtayoo.
+ 8. The sun is shining brightly / tee'yon yanyond joo'yoojta.
+ 9. The bright sun shines / yanyond tee'yon joo'yoota
  10. The sun is rising now / teeyang xenzee xangqijta
  11. All the people shouted / xnmind qnbufn hanjoogotanal
  12. Some of the people shouted / xnmind yibufn hanjoogotanal
@@ -21,11 +21,29 @@ Here are the [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resource
  19. The rain came down / yixe xaleegotal
  20. The kitten is playing in the rain / moomi yixeli 
  21. The rain has stopped / yixe tingjgota
- 22. Soon the rain will stop / yixe hankee tingjtayoo
- 23. I hope the rain stops soon / 
- 24. Once wild animals lived here / 
- 25. 
-
+ 22. Soon the rain will stop / yixe hanp tingjtayoo
+ 23. I hope the rain stops soon / ixe ganpee tinjtayoo je'x xiwonjwa
+ 24. Once wild animals lived here / cunqen yexnd du'nu ja'lmen xanfojtanl
+ 25. Slowly she looked around. / manmand leefe kanjtal. 
+ 26. Go away! / likeeya!
+ 27. Let's go! / qufalo!
+ 28. You should go. / zo-fedeni.
+ 29. I will be happy to go. / zo je'x keexnwayoo.
+ 30. He will arrive soon. / hanpa doo'leetayoo.
+ 31. The baby's ball has rolled away. / boobood qo banzogotal.
+ 32. The two boys are working together. / lang nanhee iq gunzojtanl.
+ 33. This mist will probably clear away. / jag miw yangeefe sanqtayoo.
+ 34. Lovely flowers are growing everywhere. / kee'd fado dooq xanjonjtan.
+ 35. We should eat more slowly. / manmand qafan-fedewan.
+ 36. You have to come soon. / peepeed leeya!
+ 37. You must write more neatly. / gunjnd xezya!
+ 38. Directly opposite stands a wonderful palace. / bucod gunden ja'ndemen zee'jta.
+ 39. Henry's dog is lost. / Henlid go zojogota.
+ 40. My cat is black. / wad moo hes xta.
+ 41. The little girl's doll is broken.
+I usually sleep soundly.
+The children ran after Jack.
+I can play after school.
 
 Locative: men\
 Allative: na\
