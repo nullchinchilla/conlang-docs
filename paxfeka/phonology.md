@@ -8,7 +8,7 @@ The phonology described here is a conservative pronunciation around 500 years ou
 
 ## Vowels
 
-Phonemically, these are the vowels:
+Phonemically, these are the vowels, as well as the standard "textbook" pronunciation:
 
 ```
 <i> [i]                 <u> [u]
@@ -20,20 +20,11 @@ Phonemically, these are the vowels:
                <a> [a]
 ```
 
-**ē** and **ō** are phonotactically long counterparts of **e** and **o**.
-
-Phonetically, though, there is a series of _nasalized vowels_ \[ã ĩ ũ ẽ õ ɯ̃], but they are best analyzed as representing sequences of sounds with /n/: /an in en on n/, the last one being syllabic.
-
-For instance,
-
-- _Têpņfa_ /têːpnfa/ \[ˈtɛ̂ːpɯ̃fa] "Classical Paxfeka"
-- _lanhē_ /lǎnheː/ \[ˈlǎ̃hɛː] "pelagic zone"
-- _Têpņdō_ /têːpndoː/ \[ˈtɛ̂ːpn̩dɔː] "the city-island of Paxfeka, nominal capital of the planet"
-- _lanqo_ /lǎntʃo/ \[ˈlǎntʃo] "basketball".
+**ē** and **ō** are phonotactically long counterparts of **e** and **o**. Many modern speakers pronounce **ē** as [æ] and **ō** as [ʌ], with no significant length difference.
 
 ## Consonants
 
-The consonant system is remarkably conservative vis-a-vis Paxfeka's Mandarin ancestor. The most notable changes are the merging of the alveolo-palatals and retroflex into the palatal-alveolar, as well as the straightforward restructuring from an aspiration distinction to a voicing distinction.
+The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin ancestor. The most notable changes are the merging of the alveolo-palatals and retroflex into the palatal-alveolar, as well as the straightforward restructuring from an aspiration distinction to a voicing distinction.
 
 |               | Bilabial     | Alveolar       | Postalveolar   | Palatal  | Velar        |
 | ------------- | ------------ | -------------- | -------------- | -------- | ------------ |
