@@ -40,13 +40,13 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 | **Sibilant**  |              | \<s z> [s z~dz] | \<š> [ʃ]     |          |              |
 | **Liquid**    | \<w> [w]     | \<l> [l]        |              | \<y> [j] |              |
 
-\<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **kōnvata** "voltage converter", **ivatu** "slang term for radioactive waste (cognate with Classical **wìd fato** 'green garbage pile')"
+\<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **kōnvata** "voltage converter", **ivatu** "slang term for radioactive waste (cognate with Classical **wíd mato** 绿色的码头 'green garbage pile')"
 
 ## Phonotactics
 
 In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
 
-The last syllable of a word may end in two consonants, the first one of which is not \<n>, and is spelled that way: **mals** "car", **zips** "off-road vehicle".
+The last syllable of a word may end in two consonants, the first one of which is not \<n>, and is spelled that way: **mals** 马路车 "car", **kēllips** 开路吉普车 "off-road vehicle".
 
 ## Prosody
 
