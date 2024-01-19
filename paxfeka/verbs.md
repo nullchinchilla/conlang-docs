@@ -2,9 +2,7 @@
 
 The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-person-aspect-tense_. For example, **sísfeðarol** _I was wanting to remove_ breaks down into
 
-| sís    | -fe  | -ða | -ro | -l  |
-| ------ | ---- | --- | --- | --- |
-| remove | want | 1sg | CNT | PA  |
+<table data-full-width="false"><thead><tr><th>sís</th><th>-fe</th><th>-ða</th><th>-ro</th><th>-l</th></tr></thead><tbody><tr><td>remove</td><td>want</td><td>1sg</td><td>CNT</td><td>PA</td></tr></tbody></table>
 
 ## Person
 
