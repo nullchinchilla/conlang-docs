@@ -30,15 +30,15 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 - the merging of the alveolo-palatals and retroflex into the palatal-alveolar
 - a series of changes involving rhotacism (generation of /r/) that obliterated all the affricates
 
-|               | Bilabial     | Alveolar     | Postalveolar | Palatal  | Velar        |
-| ------------- | ------------ | ------------ | ------------ | -------- | ------------ |
-| **Nasal**     | \<m> [m]     | \<n> [n]     |              |          |              |
-| **Stop**      | \<p b> [p b] | \<t d> [t d] |              |          | \<k g> [k ɡ] |
-| **Tap**       |              | \<r> [ɾ]     |              |          |              |
-| **Trill**     |              | \<rr> [r]    |              |          |              |
-| **Fricative** | \<f v> [f v] | \<þ ð> [θ ð] |              |          | \<h> [h~x~ç] |
-| **Sibilant**  |              | \<s> [s]     | \<š> [ʃ]     |          |              |
-| **Liquid**    | \<w> [w]     | \<l> [l]     |              | \<y> [j] |              |
+|               | Bilabial     | Alveolar        | Postalveolar | Palatal  | Velar        |
+| ------------- | ------------ | --------------- | ------------ | -------- | ------------ |
+| **Nasal**     | \<m> [m]     | \<n> [n]        |              |          |              |
+| **Stop**      | \<p b> [p b] | \<t d> [t d]    |              |          | \<k g> [k ɡ] |
+| **Tap**       |              | \<r> [ɾ]        |              |          |              |
+| **Trill**     |              | \<rr> [r]       |              |          |              |
+| **Fricative** | \<f v> [f v] | \<þ ð> [θ ð]    |              |          | \<h> [h~x~ç] |
+| **Sibilant**  |              | \<s z> [s z~dz] | \<š> [ʃ]     |          |              |
+| **Liquid**    | \<w> [w]     | \<l> [l]        |              | \<y> [j] |              |
 
 \<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **kōnvata** "voltage converter", **ivatu** "slang term for radioactive waste (cognate with Classical **wìd fato** 'green garbage pile')"
 
@@ -46,9 +46,7 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 
 In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
 
-The last syllable of a word may _morphophonologically_ end in two consonants, the first one of which is not \<n>, and is spelled that way: **malq** "car", **zips** "off-road vehicle".
-
-However whenever these clusters violate sonority, it's pronounced with an epenthetic **a**. So **zips** is pronounced as if it were spelled "zipas".
+The last syllable of a word may end in two consonants, the first one of which is not \<n>, and is spelled that way: **mals** "car", **zips** "off-road vehicle".
 
 ## Prosody
 
