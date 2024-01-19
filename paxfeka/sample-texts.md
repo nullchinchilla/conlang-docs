@@ -8,7 +8,7 @@ is.north-AT wind and sun which is.strong-CMP-3 about argue-3p-CNT-PA-AT time-LOC
 
 > They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other.
 
-Senmen savolba menō sís-bitad yan sonidenta rax ipaxontal.
+Senmen savolba menō sísbitad yan sonidenta rax ipaxontal.
 
 > Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
 
