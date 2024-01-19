@@ -12,11 +12,11 @@ Senmen savolba meno sís-bitad yan sonidenta rax ipaxontal.
 
 > Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
 
-Yanno, Bebend Fan seðekayta zin seðetal dan, seðetad daxomen savolba meno xoruntal.
+Yanno, Bebend Fan seðekaita zin seðetal dan, seðetad daxomen savolba meno xoruntal.
 
 > and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
 
-Deho, Bebend Fan fonstal. Yanno, Tǽyon wanwand zôlankæxtal, lìma savolba meno sístal.
+Deho, Bebend Fan fonstal. Yanno, Tǽyon wanwand zólankæxtal, líma savolba meno sístal.
 
 > And so the North Wind was obliged to confess that the Sun was the stronger of the two.
 
