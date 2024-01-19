@@ -15,12 +15,12 @@ Phonemically, these are the vowels, as well as the standard "textbook" pronuncia
 
     <e> [e]             <o> [o]
 
-        <æ> [ɛː]
+        <ē> [ɛː]        <ō> [ɔː]
 
                <a> [a]
 ```
 
-**æ** is the phonotactically long counterparts of **e**. Many modern speakers pronounce **ē** as [æ], with no significant length difference.
+**ē** and **ō** are phonotactically long counterparts of **e** and **o**. Many modern speakers pronounce **ē** as [æ] and **ō** as [ʌ], with no significant length difference.
 
 ## Consonants
 
@@ -40,7 +40,7 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 | **Sibilant**  |              | \<s z> [s z~dz] | \<š> [ʃ]     |          |              |
 | **Liquid**    | \<w> [w]     | \<l> [l]        |              | \<y> [j] |              |
 
-\<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **konvata** "voltage converter", **ivatu** "slang term for radioactive waste (cognate with Classical **wíd fato** 'green garbage pile')"
+\<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **kōnvata** "voltage converter", **ivatu** "slang term for radioactive waste (cognate with Classical **wìd fato** 'green garbage pile')"
 
 ## Phonotactics
 
