@@ -15,12 +15,10 @@ Phonemically, these are the vowels, as well as the standard "textbook" pronuncia
 
     <e> [e]             <o> [o]
 
-        <ē> [ɛː]        <ō> [ɔː]
-
                <a> [a]
 ```
 
-**ē** and **ō** are phonotactically long counterparts of **e** and **o**. Many modern speakers pronounce **ē** as [æ] and **ō** as [ʌ], with no significant length difference.
+There are falling diphthongs **ei** **oi** **ai** **ui**, as well as two rising diphthongs **ie** and **uo** that only exist in the first syllable.
 
 ## Consonants
 
@@ -33,14 +31,12 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 |               | Bilabial     | Alveolar        | Postalveolar | Palatal  | Velar        |
 | ------------- | ------------ | --------------- | ------------ | -------- | ------------ |
 | **Nasal**     | \<m> [m]     | \<n> [n]        |              |          |              |
-| **Stop**      | \<p b> [p b] | \<t d> [t d]    |              |          | \<k g> [k ɡ] |
+| **Stop**      | \<p b> [p b] | \<t d> [t d]    |              |          | \<k> [k]     |
 | **Tap**       |              | \<r> [ɾ]        |              |          |              |
 | **Trill**     |              | \<rr> [r]       |              |          |              |
 | **Fricative** | \<f v> [f v] | \<þ ð> [θ ð]    |              |          | \<h> [h~x~ç] |
 | **Sibilant**  |              | \<s z> [s z~dz] | \<š> [ʃ]     |          |              |
-| **Liquid**    | \<w> [w]     | \<l> [l]        |              | \<y> [j] |              |
-
-\<v> only exists in loanwords, typically from English or vernacular Tepnic languages. e.g. **kōnvata** "voltage converter", **ivatu** "slang term for radioactive waste (cognate with Classical **wíd mato** 绿色的码头 'green garbage pile')"
+| **Liquid**    |              | \<l> [l]        |              | \<y> [j] |              |
 
 ## Phonotactics
 

@@ -2,22 +2,22 @@
 
 > The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak.
 
-Bebend Fan ha Têyon nag sonidenta bani darētanzod xahomen, ig hóhod menō santarod savol bólētal.\
-Beben-d Fan ha Têyon nag son-iden-ta bani darē-tan-zo-d xaho-men, ig hóho-d menō san-ta-zo-d savol bólē-ta-l.\
-is.north-AT wind and sun which is.strong-CMP-3 about argue-3p-CNT-PA-AT time-LOC, one is.thick-AT jacket wear-3-CNT-AT traveler come-PA-3
+Bebend Fan ha Téyon nag sonidenta ban darerad šahum, i huóhud meno sansad savol buolel.\
+Beben-d Fan ha Téyon nag son-iden-ta ban dare-ra-d šahu-m, i huóhu-d o san-sa-d savol buolel.\
+is.north-AT wind and sun which is.strong-CMP about argue-IMPF-AT-LOC, one is.thick-AT jacket wear-CNT-AT traveler come-PA
 
 > They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other.
 
-Senmen savolba menō sísbitad yan sonidenta rax ipaxontal.
+Senmen savolba meno sísbid yan soniden ša ipašonal.
 
 > Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
 
-Yanno, Bebend Fan seðekayta zin seðetal dan, seðetad daxōmen savolba menō xoruntal.
+Yanho, Bebend Fan sieðikaidrin sieðil dan, sieðid dašom savolba meno šuorinal.
 
 > and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
 
-Deho, Bebend Fan fonstal. Yanno, Têyon wanwand zôlankēxtal, líma savolba menō sístal.
+Rahu, Bebend Fan fonsal. Rahu, Téyon vantund nolankešal, líma savolba meno sísal.
 
 > And so the North Wind was obliged to confess that the Sun was the stronger of the two.
 
-Deho, Têyon sonidenta rax Bebend Fan zede tunital.
+Rahu, Téyon sonidendaš Bebend Fan niedi tunil.

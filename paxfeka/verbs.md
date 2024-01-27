@@ -1,21 +1,35 @@
 # Verbs
 
-The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-person-aspect-tense_. For example, **sísfeðarol** _I was wanting to remove_ breaks down into
+The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-aspect-tense_. For example, **sísferal** _was wanting to remove_ breaks down into
 
-| sís    | -fe  | -ða | -ro | -l  |
-| ------ | ---- | --- | --- | --- |
-| remove | want | 1sg | CNT | PA  |
+| sís    | -fe  | -ra            | -l     |
+| ------ | ---- | -------------- | ------ |
+| remove | want | _imperfective_ | _past_ |
 
-## Person
+## Aspect
 
-These follow nom-acc alignment, so they agree with the _ergative_ (which may be pro-dropped) in sentences with transitive verbs, not the absolutive.
+The basic distinction is between
 
-|       | Singular | Plural |
-| ----- | -------- | ------ |
-| _1st_ | -ða      | -ðan   |
-| _2nd_ | -ni      | -nin   |
-| _3rd_ | -ta      | -tan   |
+- the _perfective_, denoted by no suffix
+- and the _imperfective_, denoted by a suffix **-r(a)**. The **a** drops when phonologically possible, and the **r** mutates to **s** in many positions, e.g. **darer** _fight-IMPF_ **síss** _remove-IMPF_ **mans** _deceive-IMPF_
 
-Note that these descend pretty transparently from Standard Chinese. The only exception is -ða, which formed through analogy to -ðan (咱).
+A short explanation is that perfective aspect treats an action as an "atomic" _act_, without considering its internal structure, while imperfective aspect zooms in it as a _process_. Consider these two sentences:
 
-(This is _not_ the case for the free pronouns, like **lōra** _you_ and **dara** _you, plural_, which descend respectively from 老家 and 大家. That will be separately treated.)
+**Ðuoten anba šubun viédul**.\
+yesterday I-ERG book read-PAST\
+_I read (and finished) a book yesterday._
+
+**Ðuoten anba šubun viédural**.\
+yesterday I-ERG book read-IMPF-PAST\
+_I was (in the middle of) reading a book yesterday._
+
+Note that imperfective vs perfective does not map neatly to English _-ing_. English _-ing_ denotes "progressive aspect", which is a subspecies of imperfective aspect that only deals with in-progress actions that have an endpoint.
+
+A more detailed breakdown of aspects by their actual _meaning_ might look like this:
+
+- **Perfective**: Anba šubun viédul. _I read a book._
+- **Imperfective**:
+  - **Habitual**: Sánen an Tepundomen núšeral. _I lived in Tepundo last year._
+  - **Continuous**:
+    - **Non-progressive**: Anba datsoš kans. _I see a grocery store._
+    - **Progressive**: Anba bulans soþer. _I'm cooking breakfast._
