@@ -8,7 +8,7 @@ The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-aspect-t
 
 ## Aspect
 
-The basic distinction is between
+The basic distinction is between:
 
 - the _perfective_, denoted by no suffix
 - and the _imperfective_, denoted by a suffix **-r(a)**. The **a** drops when phonologically possible, and the **r** mutates to **s** in many positions, e.g. **darer** _fight-IMPF_ **síss** _remove-IMPF_ **mans** _deceive-IMPF_
