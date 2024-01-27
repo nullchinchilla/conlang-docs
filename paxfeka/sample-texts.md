@@ -20,4 +20,4 @@ Rahu, Bebend Fan fonsal. Rahu, Téyon vantund nolankešal, líma savolba meno s�
 
 > And so the North Wind was obliged to confess that the Sun was the stronger of the two.
 
-Rahu, Téyon sonidendaš Bebend Fan niedi tunil.
+Rahu, Téyon soniden ša Bebend Fan niedi tunil.
