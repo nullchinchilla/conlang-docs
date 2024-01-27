@@ -1,3 +1,12 @@
+# Nouns
+
+| Lemma     | Class | Etymology | Definition |
+| --------- | ----- | --------- | ---------- |
+| **fan**   |       | PT 风     | _wind_     |
+| **meno**  |       | PT 棉袄   | _coat_     |
+| **téyon** |       | PT 太阳   | _sun_      |
+| **šahu**  | `loc` | PT 时候   | _moment_   |
+
 # Verbs
 
 | Lemma      | Class      | Etymology   | Definition                               |
