@@ -11,6 +11,7 @@
 
 | Lemma      | Class      | Etymology   | Definition                               |
 | ---------- | ---------- | ----------- | ---------------------------------------- |
+| **-bi**    | `aux`      | PT 逼       | _to force_                               |
 | **buole**  | `itr`      | PT 过来     | _to arrive (at LOC)_                     |
 | **dare**   | `itr`      | PT 打架     | _to argue (with COM)_                    |
 | **fons**   | `itr aux`  | PT 放弃     | _to give up_                             |
