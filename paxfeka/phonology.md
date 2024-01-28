@@ -34,7 +34,7 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 | **Stop**      | \<p b> [p b] | \<t d> [t d] |              |          | \<k> [k] |
 | **Tap**       |              | \<r> [ɾ]     |              |          |          |
 | **Fricative** | \<f v> [f v] | \<þ ð> [θ ð] |              |          | \<h> [h] |
-| **Sibilant**  |              | \<s> [s]     | \<š> [ʃ]     |          |          |
+| **Sibilant**  |              | \<s> [s]     | \<x> [ʃ]     |          |          |
 | **Liquid**    |              | \<l> [l]     |              | \<y> [j] |          |
 
 ## Phonotactics
