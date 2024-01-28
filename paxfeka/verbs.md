@@ -29,7 +29,7 @@ A more detailed breakdown of aspects by their actual _meaning_ might look like t
 
 - **Perfective**: Anba šubun viédul. _I read a book._
 - **Imperfective**:
-  - **Habitual**: Sánen an Tepundomen núšeral. _I lived in Tepundo last year._
+  - **Habitual**: Sánen an Tepundom núšeral. _I lived in Tepundo last year._
   - **Continuous**:
     - **Non-progressive**: Anba datsoš kans. _I see a grocery store._
     - **Progressive**: Anba bulans soþer. _I'm cooking breakfast._

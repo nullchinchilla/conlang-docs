@@ -12,7 +12,7 @@ Senmen savolba meno sísbid yan soniden daš ipašonal.
 
 > Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
 
-Yanho, Bebend Fan sieðikaidrin sieðil dan, sieðid dašom savolba meno šuorinal.
+Yanhu, Bebend Fan sieðikaidrin sieðil dan, sieðid dašom savolba meno šuorinal.
 
 > and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
 
