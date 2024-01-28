@@ -29,4 +29,5 @@
 | **sítsu**  | `tr`       | PT 去除      | _to remove_                              |
 | **tuni**   | `itr quot` | PT 同意      | _to relunctantly agree_                  |
 | **vantun** | `itr atom` | PT 暖腾      | _to be warm_                             |
+| **viédu**  | `tr`       | PT 阅读      | _to read_                                |
 | **xuorin** | `tr`       | PT 收紧      | _to wrap around_                         |
