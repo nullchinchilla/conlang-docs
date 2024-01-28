@@ -26,7 +26,7 @@
 | **nóyan**  | `ambi`     | PT 照亮      | _to shine_                               |
 | **sieði**  | `itr`      | PT 吹嘴      | _to blow out air (towards ALL)_          |
 | **son**    | `itr atom` | PT 强        | _to be strong_                           |
-| **sís**    | `tr`       | PT 去除      | _to remove_                              |
+| **sítsu**  | `tr`       | PT 去除      | _to remove_                              |
 | **tuni**   | `itr quot` | PT 同意      | _to relunctantly agree_                  |
 | **vantun** | `itr atom` | PT 暖腾      | _to be warm_                             |
 | **xuorin** | `tr`       | PT 收紧      | _to wrap around_                         |

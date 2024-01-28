@@ -8,7 +8,7 @@ is.north-AT wind and sun which is.strong-CMP about argue-IMPF-AT time, one is.th
 
 > They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other.
 
-Senmen savolba meno sísbid yan soniden dax ipaxonal.
+Senmen savolba meno sítsubid yan soniden dax ipaxonal.
 
 > Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
 
@@ -16,7 +16,7 @@ Yanhu, Bebend Fan sieðikaidrin sieðil dan, sieðid daxom savolba meno xuorinal
 
 > and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
 
-Rahu, Bebend Fan fonsil. Rahu, Téyon vantund nóyankexal, líma savolba meno sísal.
+Rahu, Bebend Fan fonsil. Rahu, Téyon vantund nóyankexal, líma savolba meno sítsul.
 
 > And so the North Wind was obliged to confess that the Sun was the stronger of the two.
 
