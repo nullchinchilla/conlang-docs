@@ -2,9 +2,9 @@
 
 > The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak.
 
-Bebend Fan ha Téyon nai sonidenta ban darerad šahum, i huóhud meno sansad savol buolel.\
-Beben-d Fan ha Téyon nai son-iden-ta ban dare-ra-d šahu-m, i huóhu-d o san-sa-d savol buolel.\
-is.north-AT wind and sun which is.strong-CMP about argue-IMPF-AT-LOC, one is.thick-AT jacket wear-CNT-AT traveler come-PA
+Bebend Fan ha Téyon nai sonidenta ban darerad šahu, i huóhud meno sansad savol buolel.\
+Beben-d Fan ha Téyon nai son-iden-ta ban dare-ra-d šahu, i huóhu-d o san-sa-d savol buolel.\
+is.north-AT wind and sun which is.strong-CMP about argue-IMPF-AT time, one is.thick-AT jacket wear-CNT-AT traveler come-PA
 
 > They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other.
 
