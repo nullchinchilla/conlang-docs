@@ -28,21 +28,20 @@ The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin anc
 - the merging of the alveolo-palatals and retroflex into the palatal-alveolar
 - a series of changes involving rhotacism (generation of /r/) that obliterated all the affricates
 
-|               | Bilabial     | Alveolar        | Postalveolar | Palatal  | Velar        |
-| ------------- | ------------ | --------------- | ------------ | -------- | ------------ |
-| **Nasal**     | \<m> [m]     | \<n> [n]        |              |          |              |
-| **Stop**      | \<p b> [p b] | \<t d> [t d]    |              |          | \<k> [k]     |
-| **Tap**       |              | \<r> [ɾ]        |              |          |              |
-| **Trill**     |              | \<rr> [r]       |              |          |              |
-| **Fricative** | \<f v> [f v] | \<þ ð> [θ ð]    |              |          | \<h> [h~x~ç] |
-| **Sibilant**  |              | \<s z> [s z~dz] | \<š> [ʃ]     |          |              |
-| **Liquid**    |              | \<l> [l]        |              | \<y> [j] |              |
+|               | Bilabial     | Alveolar     | Postalveolar | Palatal  | Velar    |
+| ------------- | ------------ | ------------ | ------------ | -------- | -------- |
+| **Nasal**     | \<m> [m]     | \<n> [n]     |              |          |          |
+| **Stop**      | \<p b> [p b] | \<t d> [t d] |              |          | \<k> [k] |
+| **Tap**       |              | \<r> [ɾ]     |              |          |          |
+| **Fricative** | \<f v> [f v] | \<þ ð> [θ ð] |              |          | \<h> [h] |
+| **Sibilant**  |              | \<s> [s]     | \<š> [ʃ]     |          |          |
+| **Liquid**    |              | \<l> [l]     |              | \<y> [j] |          |
 
 ## Phonotactics
 
 In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
 
-The last syllable of a word may end in two consonants, the first one of which is not \<n>, and is spelled that way: **mals** 马路车 "car", **kēllips** 开路吉普车 "off-road vehicle".
+The last syllable of a word may end in two consonants, the first one of which is not \<n>, and is spelled that way: **mals** 马路车 "car", **kellips** 开路吉普车 "off-road vehicle".
 
 ## Prosody
 
