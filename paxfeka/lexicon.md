@@ -19,10 +19,10 @@
 | Lemma      | Class      | Etymology    | Definition                               |
 | ---------- | ---------- | ------------ | ---------------------------------------- |
 | **-bi**    | `aux`      | PT 逼        | _to force.. (causative)_                 |
+| **-fe**    | `aux`      | PT 非        | _to want (+ verb)_                       |
 | **-kai**   | `aux`      | PT 可以      | _to be able to.._                        |
 | **buóle**  | `itr`      | PT 过来      | _to arrive (at LOC)_                     |
 | **dare**   | `itr`      | PT 打架      | _to argue (with COM)_                    |
-| **fe**     | `aux`      | PT 非        | _to want (+ verb)_                       |
 | **feyo**   | `tr`       | PT 非要      | _to want_                                |
 | **fónsi**  | `itr aux`  | PT 放弃      | _to give up_                             |
 | **hassek** | `itr`      | E "have sex" | _to have sex_                            |
