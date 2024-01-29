@@ -2,6 +2,7 @@
 
 | Lemma      | Class | Etymology    | Definition      |
 | ---------- | ----- | ------------ | --------------- |
+| **bulans** |       | E "brunch"   | _breakfast_     |
 | **datsox** |       | PT 大超市    | _grocery store_ |
 | **fan**    |       | PT 风        | _wind_          |
 | **mals**   |       | PT 马路车    | _car_           |
@@ -30,6 +31,7 @@
 | **núxe**   | `itr`      | PT 住下      | _to live (in LOC)_                       |
 | **sieði**  | `itr`      | PT 吹嘴      | _to blow out air (towards ALL)_          |
 | **son**    | `itr atom` | PT 强        | _to be strong_                           |
+| **soþe**   | `tr`       | PT 炒菜      | _to cook_                                |
 | **sítsu**  | `tr`       | PT 去除      | _to remove_                              |
 | **tuni**   | `itr quot` | PT 同意      | _to relunctantly agree_                  |
 | **vantun** | `itr atom` | PT 暖腾      | _to be warm_                             |
