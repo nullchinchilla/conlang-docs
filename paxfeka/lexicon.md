@@ -9,6 +9,7 @@
 | **yan**    |       | PT 人        | _person, one_ |
 | **xahu**   | `loc` | PT 时候      | _moment_      |
 | **ðuoten** | `loc` | PT 时候      | _moment_      |
+| **mals**   |       | PT 马路车    | _car_         |
 
 # Verbs
 
