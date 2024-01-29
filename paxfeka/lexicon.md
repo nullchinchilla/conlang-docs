@@ -1,15 +1,17 @@
 # Nouns
 
-| Lemma      | Class | Etymology    | Definition    |
-| ---------- | ----- | ------------ | ------------- |
-| **fan**    |       | PT 风        | _wind_        |
-| **mals**   |       | PT 马路车    | _car_         |
-| **meno**   |       | PT 棉袄      | _coat_        |
-| **savol**  |       | E "traveler" | _traveler_    |
-| **téyon**  |       | PT 太阳      | _sun_         |
-| **xahu**   | `loc` | PT 时候      | _moment_      |
-| **yan**    |       | PT 人        | _person, one_ |
-| **ðuoten** | `loc` | PT 时候      | _moment_      |
+| Lemma      | Class | Etymology    | Definition      |
+| ---------- | ----- | ------------ | --------------- |
+| **datsox** |       | PT 大超市    | _grocery store_ |
+| **fan**    |       | PT 风        | _wind_          |
+| **mals**   |       | PT 马路车    | _car_           |
+| **meno**   |       | PT 棉袄      | _coat_          |
+| **savol**  |       | E "traveler" | _traveler_      |
+| **téyon**  |       | PT 太阳      | _sun_           |
+| **xahu**   | `loc` | PT 时候      | _moment_        |
+| **xubun**  |       | PT 书本      | _book_          |
+| **yan**    |       | PT 人        | _person, one_   |
+| **ðuoten** | `loc` | PT 时候      | _moment_        |
 
 # Verbs
 
