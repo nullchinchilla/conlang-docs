@@ -25,6 +25,7 @@
 | **ipaxon** | `itr quot` | PT 一块儿想  | _to consensually agree, e.g. a contract_ |
 | **kex**    | `itr aux`  | PT 开始      | _to begin_                               |
 | **nóyan**  | `ambi`     | PT 照亮      | _to shine_                               |
+| **núxe**   | `itr`      | PT 住下      | _to live (in LOC)_                       |
 | **sieði**  | `itr`      | PT 吹嘴      | _to blow out air (towards ALL)_          |
 | **son**    | `itr atom` | PT 强        | _to be strong_                           |
 | **sítsu**  | `tr`       | PT 去除      | _to remove_                              |
