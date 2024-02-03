@@ -6,13 +6,17 @@
 | **datsox** |       | PT 大超市    | _grocery store_ |
 | **fon**    |       | PT 风        | _wind_          |
 | **mals**   |       | PT 马路车    | _car_           |
+| **mankan** |       | PT 门槛      | _door_          |
 | **menno**  |       | PT 棉袄      | _coat_          |
+| **ninten** | `loc` | PT 今天      | _today_         |
 | **savol**  |       | E "traveler" | _traveler_      |
+| **sánen**  | `loc` | PT 去年      | _last year_     |
+| **sáten**  | `loc` | PT 去天      | _yesterday_     |
 | **téyon**  |       | PT 太阳      | _sun_           |
 | **xahu**   | `loc` | PT 时候      | _moment_        |
 | **xubun**  |       | PT 书本      | _book_          |
 | **yan**    |       | PT 人        | _person, one_   |
-| **ðuoten** | `loc` | PT 昨天      | _yesterday_     |
+| **yanten** | `loc` | PT 明天      | _today_         |
 
 # Verbs
 
