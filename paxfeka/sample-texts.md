@@ -16,7 +16,7 @@ Yanhu, Bebend Fon sieðikaidrin sieðil dan, sieðid daxom savolba meno xuorinal
 
 > and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
 
-Rahu, Bebend Fon fónsil. Rahu, Téyon vantund nóyankexal, líma savolba meno sítsul.
+Rahu, Bebend Fon fónsil. Rahu, Téyon vantund nóyonkexal, líma savolba meno sítsul.
 
 > And so the North Wind was obliged to confess that the Sun was the stronger of the two.
 
