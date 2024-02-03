@@ -4,7 +4,7 @@
 | ---------- | ----- | ------------ | --------------- |
 | **bulans** |       | E "brunch"   | _breakfast_     |
 | **datsox** |       | PT 大超市    | _grocery store_ |
-| **fan**    |       | PT 风        | _wind_          |
+| **fon**    |       | PT 风        | _wind_          |
 | **mals**   |       | PT 马路车    | _car_           |
 | **meno**   |       | PT 棉袄      | _coat_          |
 | **savol**  |       | E "traveler" | _traveler_      |
@@ -19,7 +19,7 @@
 | Lemma      | Class      | Etymology    | Definition                               |
 | ---------- | ---------- | ------------ | ---------------------------------------- |
 | **-bi**    | `aux`      | PT 逼        | _to force.. (causative)_                 |
-| **-fe**    | `aux`      | PT 非        | _to want (+ verb)_                       |
+| **-fi**    | `aux`      | PT 非        | _to want (+ verb)_                       |
 | **-kai**   | `aux`      | PT 可以      | _to be able to.._                        |
 | **buóle**  | `itr`      | PT 过来      | _to arrive (at LOC)_                     |
 | **dare**   | `itr`      | PT 打架      | _to argue (with COM)_                    |

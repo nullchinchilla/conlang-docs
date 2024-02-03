@@ -2,7 +2,7 @@
 
 The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-aspect-tense_. For example, **sítsuferal** _was wanting to remove_ breaks down into
 
-| sítsu  | -fe  | -ra            | -l     |
+| sítsu  | -fi  | -ra            | -l     |
 | ------ | ---- | -------------- | ------ |
 | remove | want | _imperfective_ | _past_ |
 
