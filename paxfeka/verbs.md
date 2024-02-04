@@ -39,7 +39,7 @@ A more detailed breakdown of aspects by their actual _meaning_ might look like t
 Some secondary aspects are expressed using auxiliaries. This includes the _prospective_ (intention to do something), marked with **-fi** and the _recollective_ (having done something), marked with **-yu**. These auxiliaries then decline _as if_ they are in perfective aspect, but in reality indicates their inherent aspect.
 
 - **Prospective**: Anba xubun viédufil. _I wanted to read a book._
-- **Recollective**: Anba xubunni viédugo. _I've read books before_
+- **Recollective**: Anba xubunni viéduyu. _I've read books before_
 
 ## Tense
 
@@ -67,7 +67,7 @@ Unlike languages like English, tense is _relative_: it's relative to the time of
 I-ERG book read-IMPF-AT time Natalie-ERG door open.\
 _When I was reading a book, Natalie opened the door._
 
-**Anba xubun viédulad xahu, Nadaliba mankan dakel.**\
+**Anba xubun viéduld xahu, Nadaliba mankan dakel.**\
 I-ERG book read-PAST-AT time Natalie-ERG door open.\
 _When I had read the book, Natalie opened the door._
 
