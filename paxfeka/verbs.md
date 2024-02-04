@@ -36,7 +36,7 @@ A more detailed breakdown of aspects by their actual _meaning_ might look like t
 
 ### Secondary aspects
 
-Some secondary aspects are expressed using auxiliaries. This includes the _prospective_ (intention to do something), marked with **-fi** and the _recollective_ (having done something), marked with **-yu** (which is transparently from the independent verb **yu** _to have_). These auxiliaries then decline _as if_ they are in perfective aspect, but in reality indicates their inherent aspect.
+Some secondary aspects are expressed using auxiliaries. This includes the _prospective_ (intention to do something), marked with **-fi** and the _recollective_ (having done something), marked with **-yu** (which is transparently from the independent verb **yu** _to have_). These auxiliaries then conjugate _as if_ they are in perfective aspect, but in reality indicates their inherent aspect.
 
 - **Prospective**: Anba xubun viédufil. _I wanted to read a book._
 - **Recollective**: Anba xubunni viéduyu. _I've read books before_
