@@ -11,7 +11,7 @@ The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-aspect-t
 The basic distinction is between:
 
 - the _perfective_, denoted by no suffix
-- and the _imperfective_, denoted by a suffix **-ra**. The **r** mutates to **s** after **n**, e.g. **darera** _fight-IMPF_ **mansa** _deceive-IMPF_
+- and the _imperfective_, denoted by a suffix **-ra**. The **r** mutates to **s** after **n**, e.g. **dareran** _fight-IMPF-NPST_ **mansan** _deceive-IMPF-NPST_
 
 A short explanation is that perfective aspect treats an action as an "atomic" _act_, without considering its internal structure, while imperfective aspect zooms in it as a _process_. Consider these two sentences:
 
@@ -31,22 +31,22 @@ A more detailed breakdown of aspects by their actual _meaning_ might look like t
 - **Imperfective**:
   - **Habitual**: Sánen an Tepundona núxeral. _I lived in Tepundo last year._
   - **Continuous**:
-    - **Non-progressive**: Anba datsox kansa. _I see a grocery store._
-    - **Progressive**: Anba bulans soþera. _I'm cooking breakfast._
+    - **Non-progressive**: Anba datsox kansan. _I see a grocery store._
+    - **Progressive**: Anba bulans soþeran. _I'm cooking breakfast._
 
 ### Secondary aspects
 
 Some secondary aspects are expressed using auxiliaries. This includes the _prospective_ (intention to do something), marked with **-fi** and the _recollective_ (having done something), marked with **-yu** (which is transparently from the independent verb **yu** _to have_). These auxiliaries then conjugate _as if_ they are in perfective aspect, but in reality indicates their inherent aspect.
 
 - **Prospective**: Anba xubun viédufil. _I wanted to read a book._
-- **Recollective**: Anba xubunni viéduyu. _I've read books before_
+- **Recollective**: Anba xubuni viéduyun. _I've read books before_
 
 ## Tense
 
 The basic distinction is between:
 
 - the _past_, denoted by **-l**
-- the _non-past_, denoted by the lack of a suffix.
+- the _non-past_, denoted by **-n**, which drops in non-finite clauses (e.g. **viédurad Nadali** _Natalie who reads_)
 
 The combination of aspect and tense forms a system:
 

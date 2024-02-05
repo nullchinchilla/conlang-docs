@@ -1,5 +1,7 @@
 # Sample texts
 
+## The North Wind and the Sun
+
 > The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak.
 
 Bebend Fon ha Téyon nai soniden ban darerad xahu, i huóhud menno sansad savol buólel.\
@@ -21,3 +23,24 @@ Rahu, Bebend Fon fónsil. Rahu, Téyon vantund nóyonkexal, líma savolba meno s
 > And so the North Wind was obliged to confess that the Sun was the stronger of the two.
 
 Rahu, Téyon soniden dax Bebend Fon niedi tunil.
+
+## The Lord's Prayer
+
+> Our Father, who art in heaven,\
+> hallowed be thy name;\
+> thy kingdom come,\
+> thy will be done\
+> on earth as it is in heaven.\
+> Give us this day our daily bread,\
+> and forgive us our trespasses,\
+> as we forgive those who trespass against us;\
+> and lead us not into temptation,\
+> but deliver us from evil.
+
+Tenna yund ammid Fú,\
+nind yans xórriya;\
+nind vanbodu buóleya,\
+tennad nayon tudina\
+nind xons ðuóya;\
+ammi xátanben mi ninyu xataya,\
+xeyaler ammi nóruya.
