@@ -52,7 +52,7 @@ The combination of aspect and tense forms a system:
 
 - **Perfective**:
   - **Past**: Anba xubun viédul. _I read a book._
-  - **Non-past**: Anba xubun viédu. _I will read/I am about to read a book._
+  - **Non-past**: Anba xubun viédun. _I will read/I am about to read a book._
 - **Imperfective**:
   - **Past**: Anba xubun viédural. _I was reading a book._
   - **Non-past**: Anba xubun viédura. _I am reading a book._
