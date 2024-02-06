@@ -1,22 +1,26 @@
 # Nouns
 
-| Lemma      | Class | Etymology    | Definition      |
-| ---------- | ----- | ------------ | --------------- |
-| **bulans** |       | E "brunch"   | _breakfast_     |
-| **datsox** |       | PT 大超市    | _grocery store_ |
-| **fon**    |       | PT 风        | _wind_          |
-| **mals**   |       | PT 马路车    | _car_           |
-| **mankan** |       | PT 门槛      | _door_          |
-| **menno**  |       | PT 棉袄      | _coat_          |
-| **ninten** | `loc` | PT 今天      | _today_         |
-| **savol**  |       | E "traveler" | _traveler_      |
-| **sánen**  | `loc` | PT 去年      | _last year_     |
-| **sáten**  | `loc` | PT 去天      | _yesterday_     |
-| **téyon**  |       | PT 太阳      | _sun_           |
-| **xahu**   | `loc` | PT 时候      | _moment_        |
-| **xubun**  |       | PT 书本      | _book_          |
-| **yan**    |       | PT 人        | _person, one_   |
-| **yanten** | `loc` | PT 明天      | _today_         |
+| Lemma       | Class | Etymology    | Definition      |
+| ----------- | ----- | ------------ | --------------- |
+| **bulans**  |       | E "brunch"   | _breakfast_     |
+| **datsox**  |       | PT 大超市    | _grocery store_ |
+| **fon**     |       | PT 风        | _wind_          |
+| **mals**    |       | PT 马路车    | _car_           |
+| **mankan**  |       | PT 门槛      | _door_          |
+| **menno**   |       | PT 棉袄      | _coat_          |
+| **ninten**  | `loc` | PT 今天      | _today_         |
+| **savol**   |       | E "traveler" | _traveler_      |
+| **sánen**   | `loc` | PT 去年      | _last year_     |
+| **sáten**   | `loc` | PT 去天      | _yesterday_     |
+| **ten**     |       | PT 天        | _sky, heaven_   |
+| **téyon**   |       | PT 太阳      | _sun_           |
+| **vanbodu** |       | PT 王+国度   | _kingdom_       |
+| **xahu**    | `loc` | PT 时候      | _moment_        |
+| **xons**    |       | xon + nmlz   | _will_          |
+| **xubun**   |       | PT 书本      | _book_          |
+| **yan**     |       | PT 人        | _person, one_   |
+| **yans**    |       | PT 名字      | _name_          |
+| **yanten**  | `loc` | PT 明天      | _today_         |
 
 # Verbs
 
@@ -25,6 +29,7 @@
 | **-bi**    | `aux`      | PT 逼        | _to force.. (causative)_                 |
 | **-fi**    | `aux`      | PT 非        | _to want (+ verb)_                       |
 | **-kai**   | `aux`      | PT 可以      | _to be able to.._                        |
+| **-xon**   | `aux`      | PT 想        | _to intend (+ verb)_                     |
 | **buóle**  | `itr`      | PT 过来      | _to arrive (at LOC)_                     |
 | **dara**   | `itr`      | PT 打架      | _to argue (with COM)_                    |
 | **fieyo**  | `tr`       | PT 非要      | _to want_                                |
