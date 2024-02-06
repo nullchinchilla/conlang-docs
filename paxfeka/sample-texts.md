@@ -43,4 +43,4 @@ nind vanbodu buóleya,\
 tennad nayon tudina\
 nind xons ðuóya;\
 ammi xátanben mi ninyu xataya,\
-xeyaler ammi nóruya.
+xeyaler ammi nuóruya.
