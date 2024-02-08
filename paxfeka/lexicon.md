@@ -14,9 +14,11 @@
 | **sáten**   | `loc` | PT 去天      | _yesterday_     |
 | **ten**     |       | PT 天        | _sky, heaven_   |
 | **téyon**   |       | PT 太阳      | _sun_           |
+| **tudi**   |       | PT 土地      | _earth, ground_           |
 | **vanbodu** |       | PT 王+国度   | _kingdom_       |
 | **xahu**    | `loc` | PT 时候      | _moment_        |
 | **xons**    |       | xon + nmlz   | _will_          |
+| **xátan**   |       | PT 试探      | _temptation_    |
 | **xubun**   |       | PT 书本      | _book_          |
 | **yan**     |       | PT 人        | _person, one_   |
 | **yans**    |       | PT 名字      | _name_          |
@@ -33,11 +35,13 @@
 | **buóle**  | `itr`      | PT 过来      | _to arrive (at LOC)_                     |
 | **dara**   | `itr`      | PT 打架      | _to argue (with COM)_                    |
 | **fieyo**  | `tr`       | PT 非要      | _to want_                                |
+| **ðuo**  | `tr`       | PT 做      | _to realize, to execute_                     |
 | **fónsi**  | `itr aux`  | PT 放弃      | _to give up_                             |
 | **hassek** | `itr`      | E "have sex" | _to have sex_                            |
 | **huóhu**  | `itr atom` | PT 厚厚      | _to be thick_                            |
 | **ipaxon** | `itr quot` | PT 一块儿想  | _to consensually agree, e.g. a contract_ |
 | **kex**    | `itr aux`  | PT 开始      | _to begin_                               |
+| **xorri**    | `itr atom`  | PT 圣洁      | _to be holy_                               |
 | **nóyon**  | `ambi`     | PT 照亮      | _to shine_                               |
 | **núxe**   | `itr`      | PT 住晒      | _to live (in LOC)_                       |
 | **sieði**  | `itr`      | PT 吹嘴      | _to blow out air (towards ALL)_          |

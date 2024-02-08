@@ -37,10 +37,12 @@ Rahu, Téyon soniden dax Bebend Fon niedi tunil.
 > and lead us not into temptation,\
 > but deliver us from evil.
 
-Tenna yund ammid Fú,\
+Tenna yud ammid Fú,\
 nind yans xórriya;\
 nind vanbodu buóleya,\
 tennad nayon tudina\
 nind xons ðuóya;\
-ammi xátanben mi ninyu xataya,\
-xeyaler ammi nuóruya.
+
+
+ammi xátanben mi ninyubiya,\
+xeyaleð ammi nuóruya.
