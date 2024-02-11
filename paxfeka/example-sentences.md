@@ -44,33 +44,3 @@ Here are the [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resource
 42. I usually sleep soundly. / yiban hanxan xe'joowa.
 43. The children ran after Jack. / heezan ganj jeek poobtanl.
 44. I can play after school.
-
-```
-
-Locative: men\
-Allative: na\
-Ablative: le
-
-Paxfeka TAM:
-
-了：past tense
-Null: present tense
-要: future tense
-
-着：continuing aspect
-过：completive aspect
-Null: timeless aspect
-
-Null: real mood
-想: want to
-
-的话: hypothetical mood
-
-In the order of:
-mood - aspect - person - tense
-
-我：1st
-你：2nd
-他：3rd
-+们：plural（e.g. 我们）
-```
