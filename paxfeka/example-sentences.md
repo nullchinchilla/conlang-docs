@@ -1,38 +1,38 @@
 Here are the [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html) in Paxfeka:
 
-1.  The sun shines. / têyon zôyō.
-2.  The sun is shining. / têyon zôyōtaz.
-3.  The sun shone. / têyon zôyōtal.
-4.  The sun will shine / têyon zôyōtayō
-5.  The sun has been shining / têyon zôyōtaral
-6.  The sun is shining again / têyon dēiþ zôyō-kēxtaz.
-7.  The sun is shining tomorrow / tee'yon yanten joo'yoojtayoo.
-8.  The sun is shining brightly / tee'yon yanyond joo'yoojta.
-9.  The bright sun shines / yanyond tee'yon joo'yoota
-10. The sun is rising now / teeyang xenzee xangqijta
-11. All the people shouted / xnmind qnbufn hanjoogotanal
-12. Some of the people shouted / xnmind yibufn hanjoogotanal
-13. Many of the people shouted twice / xnmind dabufn ac hanjoogotanal an
-14. Happy people often shout / keexind xnmin jingqang hanjootan
-15. The kitten jumped up / moomi tooqileegotalan
-16. The kitten jumped onto the table / moomi jazad xangmenna tooyegotal
-17. My little kitten walked away / wad xod moomi zolkeegotal
-18. It’s raining / yixe dooxajta
-19. The rain came down / yixe xaleegotal
-20. The kitten is playing in the rain / moomi yixeli
-21. The rain has stopped / yixe tingjgota
-22. Soon the rain will stop / yixe hanp tingjtayoo
-23. I hope the rain stops soon / ixe ganpee tinjtayoo je'x xiwonjwa
-24. Once wild animals lived here / cunqen yexnd du'nu ja'lmen xanfojtanl
-25. Slowly she looked around. / manmand leefe kanjtal.
-26. Go away! / likeeya!
-27. Let's go! / qufalo!
-28. You should go. / zo-fedeni.
-29. I will be happy to go. / zo je'x keexnwayoo.
-30. He will arrive soon. / hanpa doo'leetayoo.
-31. The baby's ball has rolled away. / boobood qo banzogotal.
-32. The two boys are working together. / lang nanhee iq gunzojtanl.
-33. This mist will probably clear away. / jag miw yangeefe sanqtayoo.
+1.  The sun shines. / Téyon nóyonsan.
+2.  The sun is shining. Téyon nóyonsan.
+3.  The sun shone. / Téyon nóyoll.
+4.  The sun will shine / Téyon nóyon.
+5.  The sun has been shining / Téyon nóyonsal.
+6.  The sun is shining again / Téyon ðeiþ nóyonsan.
+7.  The sun is shining tomorrow / Téyon mintin nóyonsan.
+8.  The sun is shining brightly / Téyon yanli-yanli nóyonsan.
+9.  The bright sun shines / Yanlid Téyon nóyonsan.
+10. The sun is rising now / Téyon naix xonsiran.
+11. All the people shouted / Senbud yanmi dárol.
+12. Some of the people shouted / Yud yanmi dárol.
+13. Many of the people shouted twice / Duoxud yanmi yons dárol.
+14. Happy people often shout / Koxand yanmi lox dárol.
+15. The kitten jumped up / Momi xannasor bontol.
+16. The kitten jumped onto the table / Momi teibonasor bontol.
+17. My little kitten walked away / And minid momi pobukel.
+18. It’s raining / Iten xaleran.
+19. The rain came down / Iten xalel.
+20. The kitten is playing in the rain / Momi itenli xavaran.
+21. The rain has stopped / Iten tanal.
+22. Soon the rain will stop / Ifa iten tan.
+23. I hope the rain stops soon / Ifa iten tan da fieyoran.
+24. Once wild animals lived here / Kuótsi yexond dúnnumi náli núxeral.
+25. Slowly she looked around. / Ta man-man lefi kánsal.
+26. Go away! / Likeya!
+27. Let's go! / Likelo!
+28. You should go. / Nin likexiyo.
+29. I will be happy to go. / An like dafa koxan.
+30. He will arrive soon. / Ta ifa buólen.
+31. The baby's ball has rolled away. / Bobod suobon kulukel.
+32. The two boys are working together. / Yond nanhemi ipa kanforan.
+33. This mist will probably clear away. / Naid uten kuri liken.
 34. Lovely flowers are growing everywhere. / kee'd fado dooq xanjonjtan.
 35. We should eat more slowly. / manmand qafan-fedewan.
 36. You have to come soon. / peepeed leeya!
