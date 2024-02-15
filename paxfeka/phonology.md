@@ -8,7 +8,7 @@ The phonology described here is a conservative pronunciation around 500 years ou
 
 ## Vowels
 
-Phonemically, these are the vowels, as well as the standard "textbook" pronunciation:
+Phonemically, these are the vowels, as well as the standard pronunciation:
 
 ```
 <i> [i]                 <u> [u]
