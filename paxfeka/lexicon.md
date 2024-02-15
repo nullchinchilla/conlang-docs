@@ -34,7 +34,6 @@
 | **-xon**   | `aux`      | PT 想        | _to intend (+ verb)_                     |
 | **buóle**  | `itr`      | PT 过来      | _to arrive (at LOC)_                     |
 | **dara**   | `itr`      | PT 打架      | _to argue (with COM)_                    |
-| **fieyo**  | `tr`       | PT 非要      | _to want_                                |
 | **ðuo**    | `tr`       | PT 做        | _to realize, to execute_                 |
 | **fónsi**  | `itr aux`  | PT 放弃      | _to give up_                             |
 | **hassek** | `itr`      | E "have sex" | _to have sex_                            |
