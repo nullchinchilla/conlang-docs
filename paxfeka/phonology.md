@@ -54,7 +54,7 @@ The accented syllable is always the first syllable. If the accented syllable in 
 
 For instance:
 
-**Taalenar axto nos yo.**\
+**Taalenar atto nos yo.**\
 \*大栈-那儿 \*好多 \*老子 \*有\
 &#xNAN;_&#x54;here's a lot of people on Taale._\
-\[tâː.le̩.nar ǎʔ.to no̩s jo̩]
+\[tâː.le̩.nar ǎt.to no̩s jo̩]
