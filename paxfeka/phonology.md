@@ -1,10 +1,6 @@
 # Phonology
 
-This describes the phonology of Classical Paxfeka.
-
-{% hint style="warning" %}
-The phonology described here is a conservative pronunciation around 500 years out of date, generally used in formal contexts, especially for contexts intended to be intelligible to speakers of different Tepnic languages.
-{% endhint %}
+This describes the phonology of Classical Taaleva, which is still taught prescriptively as the standard pronunciation of Taaleva and used in formal contexts.
 
 ## Vowels
 
@@ -18,33 +14,47 @@ Phonemically, these are the vowels, as well as the standard pronunciation:
                <a> [a]
 ```
 
-There are falling diphthongs **ei** **oi** **ai** **ui**, as well as two rising diphthongs **ie** and **uo** that only exist in the first syllable.
+&#x20;/e/ and /o/ are mid vowels, not high-mid.
+
+### Vowel length
+
+There is a vowel-length distinction for /a/ /i/ /u/. Long vowels are written doubled: **taaleva**.
+
+As with Sanskrit, /e/ and /o/ are _inherently long_, due to them originating from diphthongs.
 
 ## Consonants
 
-The consonant system is relatively conservative vis-a-vis Paxfeka's Mandarin ancestor. The most notable changes, in historical sequence are:
+The consonant system is _relatively_ conservative vis-a-vis the Taalic languages' Mandarin ancestor. The most notable sound change, which differentiates Common Taalic from all other branches, are the following interconnected sound changes:
 
-- restructuring from an aspiration distinction to a voicing distinction
-- the merging of the alveolo-palatals and retroflex into the palatal-alveolar
-- a series of changes involving rhotacism (generation of /r/) that obliterated all the affricates
+* In all positions:
+  * /ʂ/ /ɕ/ /tʂ/ /tɕ/ > /ɬ/ > /l/
+* In initial position:
+  * /l/ > /n/
+  * /pʰ/ /tʰ/ /kʰ/ /tsʰ/ > /p/ /t/ /k/ /ts/
+* In medial position:
+  * /l/ > /r/
+  * /p/ /t/ /k/ /ts/ > /v/ /d/ /ʔ/ /d/
+  * /pʰ/ /tʰ/ /kʰ/ /tsʰ/ > /p/ /t/ /k/ /ts/
 
-|               | Bilabial     | Alveolar     | Postalveolar | Palatal  | Velar    |
-| ------------- | ------------ | ------------ | ------------ | -------- | -------- |
-| **Nasal**     | \<m> [m]     | \<n> [n]     |              |          |          |
-| **Stop**      | \<p b> [p b] | \<t d> [t d] |              |          | \<k> [k] |
-| **Tap**       |              | \<r> [ɾ]     |              |          |          |
-| **Fricative** | \<f v> [f v] | \<þ ð> [θ ð] |              |          | \<h> [h] |
-| **Sibilant**  |              | \<s> [s]     | \<x> [ʃ]     |          |          |
-| **Liquid**    |              | \<l> [l]     |              | \<y> [j] |          |
+Thus, a word like **大爆炸 dàbàozhà** comes **taavola** _beginning, genesis_.
 
-## Phonotactics
-
-In most cases, the maximal syllable is CVnC, but if V is long, the syllable can at most be CVC.
-
-The last syllable of a word may end in two consonants, the first one of which is not \<n>, and is spelled that way: **mals** 马路车 "car", **kellips** 开路吉普车 "off-road vehicle".
+|               | Bilabial      | Alveolar     | Palatal   | Velar     | Glottal   |
+| ------------- | ------------- | ------------ | --------- | --------- | --------- |
+| **Nasal**     | \<m> \[m]     | \<n> \[n]    |           |           |           |
+| **Stop**      | \<p> \[p]     | \<t> \[t]    |           | \<k> \[k] | \<x> \[ʔ] |
+| **Tap**       |               | \<r> \[ɾ]    |           |           |           |
+| **Fricative** | \<f v> \[f v] | \<d> \[ð\~d] |           |           | \<h> \[h] |
+| **Affricate** |               | \<c> \[ts]   |           |           |           |
+| **Sibilant**  |               | \<s> \[s]    |           |           |           |
+| **Liquid**    |               | \<l> \[l]    | \<y> \[j] |           |           |
 
 ## Prosody
 
-There is a simple pitch-accent system with two accents: neutral/rising, and sharply falling. The accented syllable is almost always the first syllable.
+The accented syllable is always the first syllable. If the accented syllable in a multisyllabic word is long, it receives a _falling_ accent, and if it is short, it receives a _rising_ accent. This sounds essentially like the equivalent in Serbo-Croatian.
 
-The neutral accent is unmarked, while the falling accent is marked with an acute accent, or a circumflex accent replacing the macron in the case of a long vowel.
+For instance:
+
+**Taalenar axto nos yo.**\
+\*大栈-那儿 \*好多 \*老子 \*有\
+&#xNAN;_&#x54;here's a lot of people on Taale._\
+\[tâː.le̩.nar ǎʔ.to no̩s jo̩]
