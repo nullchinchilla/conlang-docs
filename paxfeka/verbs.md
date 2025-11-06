@@ -10,52 +10,52 @@ The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-aspect-t
 
 The basic distinction is between:
 
-- the _perfective_, denoted by no suffix
-- and the _imperfective_, denoted by a suffix **-ra**. The **r** mutates to **s** after **n**, e.g. **dareran** _fight-IMPF-NPST_ **mansan** _deceive-IMPF-NPST_
+* the _perfective_, denoted by no suffix
+* and the _imperfective_, denoted by a suffix **-ra**. The **r** mutates to **s** after **n**, e.g. **dareran** _fight-IMPF-NPST_ **mansan** _deceive-IMPF-NPST_
 
 A short explanation is that perfective aspect treats an action as an "atomic" _act_, without considering its internal structure, while imperfective aspect zooms in it as a _process_. Consider these two sentences:
 
 **Sáten anba xubun viédul**.\
 yesterday I-ERG book read-PAST\
-_I read (and finished) a book yesterday._
+&#xNAN;_&#x49; read (and finished) a book yesterday._
 
 **Sáten anba xubun viédural**.\
 yesterday I-ERG book read-IMPF-PAST\
-_I was (in the middle of) reading a book yesterday._
+&#xNAN;_&#x49; was (in the middle of) reading a book yesterday._
 
 Note that imperfective vs perfective does not map neatly to English _-ing_. English _-ing_ denotes "progressive aspect", which is a subspecies of imperfective aspect that only deals with in-progress actions that have an endpoint.
 
 A more detailed breakdown of aspects by their actual _meaning_ might look like this:
 
-- **Perfective**: Anba xubun viédul. _I read a book._
-- **Imperfective**:
-  - **Habitual**: Sánen an Tepundona núxeral. _I lived in Tepundo last year._
-  - **Continuous**:
-    - **Non-progressive**: Anba datsox kansan. _I see a grocery store._
-    - **Progressive**: Anba bulans soþeran. _I'm cooking breakfast._
+* **Perfective**: Anba xubun viédul. _I read a book._
+* **Imperfective**:
+  * **Habitual**: Sánen an Tepundona núxeral. _I lived in Tepundo last year._
+  * **Continuous**:
+    * **Non-progressive**: Anba datsox kansan. _I see a grocery store._
+    * **Progressive**: Anba bulans soþeran. _I'm cooking breakfast._
 
 ### Secondary aspects
 
 Some secondary aspects are expressed using auxiliaries. This includes the _prospective_ (intention to do something), marked with **-fi** and the _recollective_ (having done something), marked with **-yu** (which is transparently from the independent verb **yu** _to have_). These auxiliaries then conjugate _as if_ they are in perfective aspect, but in reality indicates their inherent aspect.
 
-- **Prospective**: Anba xubun viédufil. _I wanted to read a book._
-- **Recollective**: Anba xubuni viéduyun. _I've read books before_
+* **Prospective**: Anba xubun viédufil. _I wanted to read a book._
+* **Recollective**: Anba xubuni viéduyun. _I've read books before_
 
 ## Tense
 
 The basic distinction is between:
 
-- the _past_, denoted by **-l**
-- the _non-past_, denoted by **-n**, which drops in non-finite clauses (e.g. **viédurad Nadali** _Natalie who reads_)
+* the _past_, denoted by **-l**
+* the _non-past_, denoted by **-n**, which drops in non-finite clauses (e.g. **viédurad Nadali** _Natalie who reads_)
 
 The combination of aspect and tense forms a system:
 
-- **Perfective**:
-  - **Past**: Anba xubun viédul. _I read a book._
-  - **Non-past**: Anba xubun viédun. _I will read/I am about to read a book._
-- **Imperfective**:
-  - **Past**: Anba xubun viédural. _I was reading a book._
-  - **Non-past**: Anba xubun viédura. _I am reading a book._
+* **Perfective**:
+  * **Past**: Anba xubun viédul. _I read a book._
+  * **Non-past**: Anba xubun viédun. _I will read/I am about to read a book._
+* **Imperfective**:
+  * **Past**: Anba xubun viédural. _I was reading a book._
+  * **Non-past**: Anba xubun viédura. _I am reading a book._
 
 Note that the _non-past perfective usually denotes a future action_, since it's hard to view a present, incomplete action as an atomic unit.
 
@@ -65,10 +65,10 @@ Unlike languages like English, tense is _relative_: it's relative to the time of
 
 **Anba xubun viédurad xahu, Nadaliba mankan dakel.**\
 I-ERG book read-IMPF-AT time Natalie-ERG door open.\
-_When I was reading a book, Natalie opened the door._
+&#xNAN;_&#x57;hen I was reading a book, Natalie opened the door._
 
 **Anba xubun viéduld xahu, Nadaliba mankan dakel.**\
 I-ERG book read-PAST-AT time Natalie-ERG door open.\
-_When I had read the book, Natalie opened the door._
+&#xNAN;_&#x57;hen I had read the book, Natalie opened the door._
 
 The tense in the embedded clause is relative to _when Natalie opened the door_, not to the present.
