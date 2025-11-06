@@ -57,7 +57,7 @@ For instance:
 **Taaleve otto nosu yo.**\
 \*大栈-边 \*好多 \*老子 \*有\
 &#xNAN;_&#x54;here's a lot of people on Taale._\
-\[tâː.le̩.nar ǒt.to no̩s jo̩]
+\[tâː.le̩.ve̩ ǒ̩t.to̩ no̩su jo̩]
 
 ## Where did the tones and final nasals go?
 
