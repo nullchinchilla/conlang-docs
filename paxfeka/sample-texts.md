@@ -1,121 +1,127 @@
 # Sample texts
 
-## The North Wind and the Sun
+Below are short sample texts in Taaleva using the phonology, lexicon, and verbal morphology described in this folder. I keep verbs sentence‑final, use the documented TAM + person/number endings, and reuse attested morphology (e.g., causative `-raata`, passive `-vuse`, nonpast `-n`, past `-ho`, 3pl `-sa`, 1sg `-va`). Plurals appear with `-me` as in the numerals example; genitive `-d` and locative `-ve` follow the examples in the docs.
 
-> The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak.
+## 1) At the market
 
-Bebend Fon ha Téyon nai soniden ban darerad xahu, i huóhud menno sansad savol buólel.\
-Beben-d Fon ha Téyon nai son-iden ban dare-ra-d xahu, i huóhu-d menno san-sa-d savol buólel.\
-is.north-AT wind and sun which is.strong-CMP about argue-IMPF-AT time, one is.thick-AT jacket wear-CNT-AT traveler come-PA
+Taaleve ottod nos yon.  
+Etymon: 当寨-边 好多-的 老子 有-呢  
+‘On Taale, many people exist.’
 
-> They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other.
+Nos saape-netaaxa tuuvame messehosa.  
+Etymon: 老子 三百两搭-个 炖吧-们 买下-过-些  
+‘The people bought 320 bowls.’
 
-Senmen savolba meno sítsubid yan soniden dax ipaxonal.
+Oppaadad paavaa tuuvahe tlahan.  
+Etymon: 胖大-的 霸王 炖吧-给 吃饭-呢  
+‘The very fat king eats the bowl.’
 
-> Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
+Maria tuuvahe messeho.  
+Etymon: Maria 炖吧-给 买下-过  
+‘Maria bought the bowl.’
 
-Yanhu, Bebend Fon sieðikaidrin sieðil dan, sieðid daxo savolba menno xuorinal.
+Tivuve kul yon.  
+Etymon: 底部-边 故事 有-呢  
+‘There is a story at the bottom (of it).’
 
-> and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
+—
 
-Rahu, Bebend Fon fónsil. Rahu, Téyon vantund nóyonkexal, líma savolba meno sítsul.
+Notes:  
+- `Taale-ve` locative from the example “Taaleve … yon.”  
+- Numeral compounding and plural `tuuva-me` follow the numerals section example.  
+- Nonpast 3sg has zero agreement; past is `-ho`.  
+- Accusative `-he`; possessive `-d` attaches to the possessor only when expressing possession (e.g., `Mariad tuuvahe` = “Maria’s bowl”).  
+- Adjectives behave like nouns and must be marked with `-d` when modifying a head noun: `X-d N` ≈ “N of X-ness” (`Oppaadad paavaa` = “king of fatness”).
 
-> And so the North Wind was obliged to confess that the Sun was the stronger of the two.
+## 2) Arrivals and causation
 
-Rahu, Téyon soniden dax Bebend Fon niedi tunil.
+Karlo tadoho.  
+Etymon: Karlo 达到-过  
+‘Karlo arrived.’
 
+Karlo tadoraatahova.  
+Etymon: Karlo 达到-让他-过-我  
+‘I made Karlo arrive.’
 
-## The Lord's Prayer
+Miisu tadoraatavuseho.  
+Etymon: 名族 达到-让他-被使-过  
+‘The noble was made to arrive.’
 
-> Our Father, who art in heaven,\
-> hallowed be thy name;\
-> thy kingdom come,\
-> thy will be done\
-> on earth as it is in heaven.\
-> Give us this day our daily bread,\
-> and forgive us our trespasses,\
-> as we forgive those who trespass against us;\
-> and lead us not into temptation,\
-> but deliver us from evil.
+Paavaa miisu tadoraatan.  
+Etymon: 霸王 名族 达到-让他-呢  
+‘The king makes the noble arrive.’
 
-Tenna yud ammid Fú,\
-nind yans xórriya;\
-nind vanbodu buóleya,\
-tennad nayon tudina\
-nind xons ðuóya;\
+Karlo a Maria tadonsa.  
+Etymon: Karlo 和 Maria 达到-呢-些  
+‘Karlo and Maria arrive / will arrive.’
 
+—
 
-ammi xátanben mi ninyubiya,\
-xeyaleð ammi nuóruya.
+Notes:  
+- Verb chain: root + derivation (causative `-raata`, passive `-vuse`) + TAM + agreement.  
+- Past `-ho`, 1sg `-va`, 3pl `-sa`, nonpast `-n` (thus 3pl nonpast `-nsa`).  
+- Coordinator `a` ‘and’ as in the example “Karlo a Maria …”.
 
+## 3) Little vignette
 
-## Summa Theologiae ST.I.Q16.A4: Whether good is logically prior to the true?
-### Objection 1: 
-> It seems that good is logically prior to the true. 
+Kaed miisu Taaleve tadon.  
+Etymon: 可爱-的 名族 当寨-边 达到-呢  
+‘The beautiful noble arrives on Taale.’
 
-Hoxan luorina nanxand senbinna sahu xan.\
-好性   逻辑-那  真性    前边-那   似乎  是-pres。
+Nos tuuvame messehosa; paavaa tuuvahe messen.  
+Etymon: 老子 炖吧-们 买下-过-些；霸王 炖吧-给 买下-呢  
+‘The people bought bowls; the king buys a (particular) bowl.’
 
-> For what is more universal is logically prior, as is evident from Phys. i. 
+Oxaatled kul Taaleve yon.  
+Etymon: 安全-的 故事 当寨-边 有-呢  
+‘A very safe/assuring story exists on Taale.’
 
-Invi Fisikmi i gosud xatsanler, universaluidend luorina senbinna xaiden.\
-因为  Physic-每 一 告诉-的 事情-来自， universalu-一点-的 逻辑-那 前边-那- 是-一点。
+Tivuve kul yon; nosve taxla yon.  
+Etymon: 底部-边 故事 有-呢；老子-边 胆志 有-呢  
+‘At the bottom there is a story; among the people, there is emotion.’
 
-> But the good is more universal than the true, since the true is a kind of good, namely, of the intellect. 
+—
 
+Notes:  
+- `oQ-` intensifier surfaces as `ox-` before vowels (e.g., `oxaatle`) and geminates before consonants (e.g., `oppaada`).  
+- Existential/presentative uses `yon` with a locative/topic phrase first, matching the example pattern.
 
-Nanxan hoxand ili xan, intelektad hoxan xan soi, hoxan universaluiden.\
-真性 好性-的 一类 是，intellect-的 好性 是，所以 好性 universalu-一点。
+## 4) Numbers in context
 
-> Therefore the good is logically prior to the true.
+Taaleve loppe-tsiitaa-rexa nos yon.  
+Etymon: 当寨-边 九百七搭两-个 老子 有-呢  
+‘On Taale, there are 972 people.’
 
-Soi hoxan luorina nanxan senbinna xan.\
-所以 好性   逻辑-那  真性    前边-那   是-pres.
+Tivuve saape-netaaxa tuuvame yon.  
+Etymon: 底部-边 三百两搭-个 炖吧-们 有-呢  
+‘At the bottom, there are 320 bowls.’
 
+Taaleve netaa-tlexa nos yon.  
+Etymon: 当寨-边 两搭千-个 老子 有-呢  
+‘On Taale, there are twenty thousand people.’
 
-### Objection 2:
-> Further, good is in things, but the true is in the intellect composing and dividing as said above (A. 2). 
+Taaleve taaxa kulme yon.  
+Etymon: 当寨-边 搭-个 故事-们 有-呢  
+‘On Taale, there are ten stories.’
 
-Yanhu, hoxan dunxina xan, dan senbin gosud xatsanler, nanxan intelektad komposi ha dividi xan.
+Maria nexa tuuvame messeho.  
+Etymon: Maria 两-个 炖吧-们 买下-过  
+‘Maria bought two bowls.’
 
-> But that which is in things is prior to that which is in the intellect. 
+Paavaa suuxa tuuvame messen.  
+Etymon: 霸王 四-个 炖吧-们 买下-呢  
+‘The king buys four bowls.’
 
-Dan dunxinad tami intelektnad tamid senbinna xan.
+Tivuve noxa kulme yon.  
+Etymon: 底部-边 六-个 故事-们 有-呢  
+‘At the bottom, there are six stories.’
 
-> Therefore good is logically prior to the true.
+Kaed miisu pexa tuuvame messeho.  
+Etymon: 可爱-的 名族 百-个 炖吧-们 买下-过  
+‘The beautiful noble bought a hundred bowls.’
 
-Soi hoxan luorina nanxand senbinna xan.
-
-
-### Reply Obj. 1: 
-> The will and the intellect mutually include one another: for the intellect understands the will, and the will wills the intellect to understand. 
-
-Intelektba xons yanbe, ha xonsba intelekt yanbe xivon soi, xons ha intelekt xonfu bokun.\
-intellect-把 意志 明白-pres， 和 意志-把 intellect 明白-inf 希望-pres 所以，意志 和 intellect 相互 包括-pres.
-
-> So then, among things directed to the object of the will, are comprised also those that belong to the intellect; and conversely. 
-
-Soi xui intelektad dunxi xonsd diexonsir raxond dunxili ðe, ha konversan.\
-所以 属于 intellect-的 东西 意志-的 对象-去着 指向的 东西中 在，和 converse-pres。
-
-> Whence in the order of things desirable, good stands as the universal, and the true as the particular; whereas in the order of intelligible things the converse is the case. 
-
-Soi xonyokaid tamid ordoli, hoxan universalun, nanxan partikularun. Dan yanbekaid dunxid ordoli konversan.\
-所以 想要-可以-的 东西-的 ordo-里 好-性 universalu-pres, 真-性 particularu-pres。但 明白-可以-的 东西-的 ordo-里 converse-pres。
-
-> From the fact, then, that the true is a kind of good, it follows that the good is prior in the order of things desirable; but not that it is prior absolutely.
-
-Invi nanxan hoxand ili xan, soi hoxan yufikaid tamid ordoli senbinna xan, danx niedi mie senbinna xan.\
-因为 真性 好性的 一类 是-pres， 所以 好性 有-非-可以-的 他每-的 ordo-里 前边-那 是-pres， 但是 绝对 没 前边-那 是-pres。
-
-
-### Reply to Obj. 2:
-> A thing is prior logically in so far as it is prior to the intellect. 
-
-Ta luorina senbinna xan yinve intelektna senbinna xan.
-
-> Now the intellect apprehends primarily being itself; second, it apprehends that it understands being; and third, it apprehends that it desires being. 
-
-
-
-> Hence the idea of being is first, that of truth second, and the idea of good third, though good is in things.
+—  
+Notes:  
+- When a numeral modifies a noun, the modifier form replaces final `-lu` with `-xa` (per `saape-netaaxa tuuvame`): e.g., `taalu → taaxa`, `nelu → nexa`, `nolu → noxa`, `suulu → suuxa`, `pelu → pexa`, `…-relu → …-rexa`, `…-tlelu → …-tlexa`.  
+- Counted nouns normally take plural `-me` (e.g., `tuuvame`, `kulme`). The collective `nos` does not pluralize.  
+- Included a mix of simple and compound numerals to show variety.

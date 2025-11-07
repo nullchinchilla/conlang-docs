@@ -1,74 +1,37 @@
 # Verbs
 
-The basic pattern of a fully conjugated, finite verb is _stem-auxiliary-aspect-tense_. For example, **sítsufiral** _was wanting to remove_ breaks down into
+Verbs in Taaleva are conjugated in a highly agglutinative fashion, structurally reminiscent of Turkic languages. Each verb is built as a linear chain: *root* + *derivation/voice* + *(negation)* + TAM + person/number.
 
-| sítsu  | -fi  | -ra            | -l     |
-| ------ | ---- | -------------- | ------ |
-| remove | want | _imperfective_ | _past_ |
+Nonfinite forms don't have + TAM + person/number, and instead have converbs / auxiliaries squished into that place that themselves have the full structure of a verb.
 
-## Aspect
+## Root
 
-The basic distinction is between:
+The root always ends in a vowel: **tado-** *arrive* **tlaha-** *eat* **po-** *go* **messe-** *buy*.
 
-* the _perfective_, denoted by no suffix
-* and the _imperfective_, denoted by a suffix **-ra**. The **r** mutates to **s** after **n**, e.g. **dareran** _fight-IMPF-NPST_ **mansan** _deceive-IMPF-NPST_
+## Voice
 
-A short explanation is that perfective aspect treats an action as an "atomic" _act_, without considering its internal structure, while imperfective aspect zooms in it as a _process_. Consider these two sentences:
+The passive is formed with **-vuse**.
 
-**Sáten anba xubun viédul**.\
-yesterday I-ERG book read-PAST\
-&#xNAN;_&#x49; read (and finished) a book yesterday._
+The causative is formed with **-raata**.
 
-**Sáten anba xubun viédural**.\
-yesterday I-ERG book read-IMPF-PAST\
-&#xNAN;_&#x49; was (in the middle of) reading a book yesterday._
+For instance, **Karlo tadoraatahova.** *I made Karlo arrive*.
 
-Note that imperfective vs perfective does not map neatly to English _-ing_. English _-ing_ denotes "progressive aspect", which is a subspecies of imperfective aspect that only deals with in-progress actions that have an endpoint.
+## Tenses
 
-A more detailed breakdown of aspects by their actual _meaning_ might look like this:
+The nonpast tense, which forms the citation form, is **-n**. **Karlo tadon.** *Karlo will arrive / arrives*.
 
-* **Perfective**: Anba xubun viédul. _I read a book._
-* **Imperfective**:
-  * **Habitual**: Sánen an Tepundona núxeral. _I lived in Tepundo last year._
-  * **Continuous**:
-    * **Non-progressive**: Anba datsox kansan. _I see a grocery store._
-    * **Progressive**: Anba bulans soþeran. _I'm cooking breakfast._
+The past tense is formed with **-ho**. **Karlo tadoho.** *Karlo arrived*.
 
-### Secondary aspects
+## Person/number
 
-Some secondary aspects are expressed using auxiliaries. This includes the _prospective_ (intention to do something), marked with **-fi** and the _recollective_ (having done something), marked with **-yu** (which is transparently from the independent verb **yu** _to have_). These auxiliaries then conjugate _as if_ they are in perfective aspect, but in reality indicates their inherent aspect.
+The verb agrees in person/number with the subject. This makes pro-drop possible.
 
-* **Prospective**: Anba xubun viédufil. _I wanted to read a book._
-* **Recollective**: Anba xubuni viéduyun. _I've read books before_
+- 1sg: **-va**
+- 1pl: **-vam**
+- 2sg: **-ni**
+- 2pl: **-nim**
+- 3sg: Ø
+- 3pl: **-sa**
 
-## Tense
-
-The basic distinction is between:
-
-* the _past_, denoted by **-l**
-* the _non-past_, denoted by **-n**, which drops in non-finite clauses (e.g. **viédurad Nadali** _Natalie who reads_)
-
-The combination of aspect and tense forms a system:
-
-* **Perfective**:
-  * **Past**: Anba xubun viédul. _I read a book._
-  * **Non-past**: Anba xubun viédun. _I will read/I am about to read a book._
-* **Imperfective**:
-  * **Past**: Anba xubun viédural. _I was reading a book._
-  * **Non-past**: Anba xubun viédura. _I am reading a book._
-
-Note that the _non-past perfective usually denotes a future action_, since it's hard to view a present, incomplete action as an atomic unit.
-
-### Relative tense
-
-Unlike languages like English, tense is _relative_: it's relative to the time of the main clause of the sentence:
-
-**Anba xubun viédurad xahu, Nadaliba mankan dakel.**\
-I-ERG book read-IMPF-AT time Natalie-ERG door open.\
-&#xNAN;_&#x57;hen I was reading a book, Natalie opened the door._
-
-**Anba xubun viéduld xahu, Nadaliba mankan dakel.**\
-I-ERG book read-PAST-AT time Natalie-ERG door open.\
-&#xNAN;_&#x57;hen I had read the book, Natalie opened the door._
-
-The tense in the embedded clause is relative to _when Natalie opened the door_, not to the present.
+**Karlo a Maria tadohosa.** *Karlo and Maria arrived.*  
+**Mariad tuuvahe messehovam.** *I bought Maria's bowl.*
